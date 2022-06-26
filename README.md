@@ -40,12 +40,19 @@ Junior QA Engineer/Младший инженер по качеству/Млад�
 Электронные сертификаты:
 
 GeekSpeak_Разработчик https://disk.yandex.ru/d/R8sQ9YOazeLBbw
+
 Git. Базовый курс https://disk.yandex.ru/d/6MemvtgGogruYg
+
 Базы данных. Основы https://disk.yandex.ru/d/jnU_L0EkHa04kw
+
 Курс "Основы ручного тестирования" https://disk.yandex.ru/d/O34I8Jia3fLHMA
+
 Курс "Основы тест-аналитики" https://disk.yandex.ru/d/eAC6BK1oXkIAlg
+
 Основы программирования https://disk.yandex.ru/d/0HNIlpxzyI5iVQ
+
 Тестирование по основам ручного тестирования https://disk.yandex.ru/d/N0lgfJjG3Fhjcw
+
 Тестирование по основам тест-аналитики https://disk.yandex.ru/i/KeWWJz2cx9NiVw
 
 Знание языков:
